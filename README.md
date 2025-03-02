@@ -179,13 +179,13 @@ Administrators: Platform managers ensuring quality and compliance
 
 ## 5.3 Scalability
 
-    1. Horizontal scaling capability
-    
-    2. Database optimization for large datasets
-    
-    3. Caching strategy for popular content
-    
-    4. CDN for media content
+        1. Horizontal scaling capability
+        
+        2. Database optimization for large datasets
+        
+        3. Caching strategy for popular content
+        
+        4. CDN for media content
 
 ## 5.4 Usability
 
