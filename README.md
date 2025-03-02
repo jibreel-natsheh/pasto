@@ -77,6 +77,8 @@ Administrators: Platform managers ensuring quality and compliance
 
         6. Rate buyers
 
+        7. Buy Credit Balance
+
 ## 3.3 User Role
 
         1. Browse and search recipes
@@ -146,17 +148,98 @@ Administrators: Platform managers ensuring quality and compliance
 
 ## 4.5 Shop Integration
 
-        1. Product listings with images
+        1. Shopping cart functionality
         
-        2. Inventory management
+        2. Order tracking
+
+
+# Non-Functional Requirements
+
+## 5.1 Performance
+
+        1. Page load time under 2 seconds
         
-        3. Shopping cart functionality
+        2. Support for 1000+ concurrent users
         
-        4. Payment processing
+        3. Search results returned in under 1 second
         
-        5. Order tracking
+        4. Support mobile and desktop devices
+
+## 5.2 Security
+
+        1. HTTPS for all connections
         
-        6. Shipping information management
+        2. Secure password storage (hashing)
+        
+        3. Protection against SQL injection
+        
+        4. CSRF protection
+        
+        5. Regular security audits
+
+## 5.3 Scalability
+
+    1. Horizontal scaling capability
+    
+    2. Database optimization for large datasets
+    
+    3. Caching strategy for popular content
+    
+    4. CDN for media content
+
+## 5.4 Usability
+
+        1. Mobile-responsive design
+        
+        2. Intuitive navigation
+        
+        3. Accessible to users with disabilities (WCAG 2.1 AA)
+        
+        4. Multilingual support (English, Spanish initially)
+
+# 6. Data Requirements
+
+## 6.1 User Data
+
+        1. Profile information
+        
+        2. Payment details (encrypted)
+        
+        3. Usage history
+        
+        4. Preferences and dietary restrictions
+
+## 6.2 Recipe Data
+
+        1. Title, description, images
+        
+        2. Ingredients with quantities
+        
+        3. Preparation steps
+        
+        4. Metadata (time, difficulty, servings)
+        
+        5. Categories and tags
+
+## 6.3 Vendor Data
+
+        1. Professional information
+        
+        2. Availability schedule
+        
+        3. Teaching history
+        
+        4. Rating and reviews
+
+
+
+
+
+
+
+
+
+
 
 
 
