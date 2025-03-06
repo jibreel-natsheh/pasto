@@ -231,8 +231,7 @@ Administrators: Platform managers ensuring quality and compliance
         
         4. Rating and reviews
 
-
-
+![Pasto](https://github.com/user-attachments/assets/bd762904-d1fe-4694-9f28-9099803c1c47)
 
 
 
